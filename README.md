@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/FG663/trevor-exploratory/_apis/build/status/tdreid.pipelines-java?branchName=master)](https://dev.azure.com/FG663/trevor-exploratory/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
